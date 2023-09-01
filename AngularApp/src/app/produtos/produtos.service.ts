@@ -9,6 +9,8 @@ import { Observable } from 'rxjs';
 // OBS: É necessário registrar o serviço na app.module do seu projeto
 // dentro de providers o nome da sua classe ex:ProdutosService.
 
+// Testando os meus commits no github
+
 @Injectable({
   providedIn: 'root'
 })
